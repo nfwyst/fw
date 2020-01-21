@@ -1,0 +1,14 @@
+{
+  "name": "fw",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "start:db": "json-server -w db.json",
+    "start:parcel": "parcel index.html"
+  },
+  "dependencies": {
+    "axios": "^0.19.1"
+  }
+}
