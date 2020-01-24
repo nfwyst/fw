@@ -4,6 +4,31 @@
       "id": 1,
       "username": "newuser",
       "age": 0
+    },
+    {
+      "username": "bob",
+      "age": 40,
+      "id": 2
+    },
+    {
+      "username": "bob",
+      "age": 40,
+      "id": 3
+    },
+    {
+      "username": "bob",
+      "age": 40,
+      "id": 4
+    },
+    {
+      "username": "bob",
+      "age": 16,
+      "id": 5
+    },
+    {
+      "username": "bob",
+      "age": 16,
+      "id": 6
     }
   ]
 }
